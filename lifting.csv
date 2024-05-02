@@ -1,3 +1,31 @@
-date, exercise, muscle group, movement category, device, weight (lbs), repetitions
-5-2-24, bench press, chest, push, barbell, 135, 10
-5-2-24, bench press, chest, push, barbell, 155, 6
+date, exercise, muscle group, movement category, device, weight (lbs), repetitions, effort, order
+2024-05-02, bench press, chest, push, barbell, 45, 10, easy, 1
+2024-05-02, bench press, chest, push, barbell, 95, 12, easy, 2
+2024-05-02, bench press, chest, push, barbell, 115, 10, easy, 3
+2024-05-02, bench press, chest, push, barbell, 135, 10, easy, 4
+2024-05-02, dumbbell press, chest, push, dumbbell, 60, 7, moderate, 5
+2024-05-02, dumbbell press, chest, push, dumbbell, 70, 5, challenging, 6
+2024-05-02, dumbbell press, chest, push, dumbbell, 70, 5, challenging, 7
+2024-05-02, skullcrushers + chest press, triceps + chest, push, barbell, 50, 10, moderate, 8
+2024-05-02, skullcrushers + chest press, triceps + chest, push, barbell, 50, 10, moderate, 9
+2024-05-02, skullcrushers + chest press, triceps + chest, push, barbell, 50, 8, challenging, 10
+2024-05-02, tricep extension, triceps, push, dumbbell, 45, 7, moderate, 11
+2024-05-02, tricep extension, triceps, push, dumbbell, 45, 8, moderate, 12
+2024-05-02, tricep extension, triceps, push, dumbbell, 45, 5, challenging, 13
+2024-05-02, leg press + calves, quads + calves, push, machine, 90, 10, easy, 14
+2024-05-02, leg press + calves, quads + calves, push, machine, 180, 14, easy, 15
+2024-05-02, leg press + calves, quads + calves, push, machine, 270, 14, easy, 16
+2024-05-02, bulgarian split squat, quads, push, dumbbell, 20, 10, easy, 17
+2024-05-02, bulgarian split squat, quads, push, dumbbell, 30, 10, easy, 18
+2024-05-02, bulgarian split squat, quads, push, dumbbell, 50, 10, moderate, 19
+2024-05-02, reverse hack squat, quads, push, machine, 200, 10, easy, 20
+2024-05-02, reverse hack squat, quads, push, machine, 400, 10, easy, 21
+2024-05-02, reverse hack squat, quads, push, machine, 400, 10, easy, 22
+2024-05-02, seated calf raise, calves, push, machine, 115, 10, medium, 23
+2024-05-02, seated calf raise, calves, push, machine, 115, 13, medium, 24
+2024-05-02, seated calf raise, calves, push, machine, 115, 13, medium, 25
+2024-05-02, seated calf raise, calves, push, machine, 115, 13, medium, 26
+2024-05-02, bicep curls, biceps, pull, barbell, 50, 10, easy, 27
+2024-05-02, bicep curls, biceps, pull, barbell, 60, 10, moderate, 28
+2024-05-02, bicep curls, biceps, pull, barbell, 60, 10, moderate, 29
+2024-05-02, rope push-down, tricep, push, rope, 35, 15, moderate, 30
